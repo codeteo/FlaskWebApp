@@ -2,5 +2,5 @@
 
 1. Install Flask
 2. Set `FLASK_APP=main.py`
-3. execute `flask run`
+3. Execute `flask run`
 4. Open your web browser at `localhost:5000`
